@@ -1,0 +1,12 @@
+main.css?ver=1.0
+
+가로스크롤생김
+>wrap  overflowX : hidden 
+
+버튼 사이 간격 줄이기
+
+lesson
+버튼 hover 검정색으로 수정
+
+footer  
+ul li > dt dd
